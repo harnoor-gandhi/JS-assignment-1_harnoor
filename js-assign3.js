@@ -41,3 +41,8 @@ console.log(typeof(integer)+"\n");
 let num4 = 786;
 let str6 = num4.toString();
 console.log(typeof(str6));
+
+const d = new Date();
+let text = d.toString();
+
+console.log(text)
